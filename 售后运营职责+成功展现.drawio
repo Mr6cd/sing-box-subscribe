@@ -1,20 +1,43 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.2.0">
   <diagram name="第 1 页" id="1Esn9ro6XN1vBcYwOcyz">
-    <mxGraphModel dx="2084" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wjj3jNI6rKhN0fVy201V-3" value="&lt;div&gt;客服&lt;/div&gt;&lt;div&gt;（取消寄修，取消发货，物流查询）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wjj3jNI6rKhN0fVy201V-10" value="&lt;div&gt;客服给终端用户面单退货&lt;/div&gt;&lt;div&gt;（物流，退货情况，预约取件）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjj3jNI6rKhN0fVy201V-10" target="yl8fu_R_bbKn2pTYyC4k-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjj3jNI6rKhN0fVy201V-10" target="yl8fu_R_bbKn2pTYyC4k-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-10" value="&lt;div&gt;终端用户退货&lt;/div&gt;&lt;div&gt;（物流，退货情况，预约取件）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wjj3jNI6rKhN0fVy201V-11" value="&lt;div&gt;B段物流取货&lt;/div&gt;&lt;div&gt;（BOL，邮箱联系，贴标，账单）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.362;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjj3jNI6rKhN0fVy201V-15" target="yl8fu_R_bbKn2pTYyC4k-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="189.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjj3jNI6rKhN0fVy201V-15" target="yl8fu_R_bbKn2pTYyC4k-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="230" />
+              <mxPoint x="780" y="280" />
+              <mxPoint x="837" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wjj3jNI6rKhN0fVy201V-15" value="&lt;div&gt;亚马逊索赔&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="290" width="100" height="60" as="geometry" />
+          <mxGeometry x="610" y="200" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kCKUYcgS-TqvOsKxTB6P-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wjj3jNI6rKhN0fVy201V-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -33,10 +56,7 @@
           <mxGeometry x="600" y="1260" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wjj3jNI6rKhN0fVy201V-39" value="第二次返修" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wjj3jNI6rKhN0fVy201V-41" value="&lt;div&gt;客户反馈&lt;/div&gt;&lt;div&gt;（丢包，修坏，少件，补寄）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wjj3jNI6rKhN0fVy201V-44" value="&lt;div&gt;仓储+备件&lt;/div&gt;&lt;div&gt;（仓储中的尺寸，收费，备件数量，备件需求,仓库转移，库存盘点）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="857" width="120" height="80" as="geometry" />
@@ -84,6 +104,24 @@
         </mxCell>
         <mxCell id="kCKUYcgS-TqvOsKxTB6P-16" value="报废列表已转交服务商" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-3" value="美国" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-5" value="加拿大" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yl8fu_R_bbKn2pTYyC4k-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjj3jNI6rKhN0fVy201V-10" target="yl8fu_R_bbKn2pTYyC4k-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
