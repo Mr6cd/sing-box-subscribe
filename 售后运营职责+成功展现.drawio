@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.2.0">
+  <diagram name="第 1 页" id="1Esn9ro6XN1vBcYwOcyz">
+    <mxGraphModel dx="1097" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wjj3jNI6rKhN0fVy201V-3" value="&lt;div&gt;客服&lt;/div&gt;&lt;div&gt;（取消寄修，取消发货，物流查询）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-10" value="&lt;div&gt;客服给终端用户面单退货&lt;/div&gt;&lt;div&gt;（物流，退货情况，预约取件）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-11" value="&lt;div&gt;B段物流取货&lt;/div&gt;&lt;div&gt;（BOL，邮箱联系，贴标，账单）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-15" value="&lt;div&gt;亚马逊索赔&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wjj3jNI6rKhN0fVy201V-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wjj3jNI6rKhN0fVy201V-24" target="kCKUYcgS-TqvOsKxTB6P-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-24" value="&lt;div&gt;报废&lt;/div&gt;&lt;div&gt;(报废证明，报废列表）&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-26" value="&lt;div&gt;翻新完&lt;/div&gt;&lt;div&gt;（售后备机，各大平台售卖）&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-39" value="第二次返修" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-41" value="&lt;div&gt;客户反馈&lt;/div&gt;&lt;div&gt;（丢包，修坏，少件，补寄）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-44" value="&lt;div&gt;仓储+备件&lt;/div&gt;&lt;div&gt;（仓储中的尺寸，收费，备件数量，备件需求,仓库转移，库存盘点）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="857" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-45" value="&lt;div&gt;账单&lt;/div&gt;&lt;div&gt;（出入库费，劳务费，仓储费，报废费，物流费）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="757" width="120" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-46" value="&lt;div&gt;合同&lt;/div&gt;&lt;div&gt;（费用报价，TAT，合同细则）&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="957" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wjj3jNI6rKhN0fVy201V-49" value="&lt;div&gt;每日运营&lt;/div&gt;&lt;div&gt;（系统BUG，IT运营，系统操作指导，建立沟通机制，库存翻新准确性，&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="797" as="sourcePoint" />
+            <mxPoint x="830" y="797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kCKUYcgS-TqvOsKxTB6P-5" target="kCKUYcgS-TqvOsKxTB6P-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCKUYcgS-TqvOsKxTB6P-5" target="kCKUYcgS-TqvOsKxTB6P-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-5" value="服务商kpi 整理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="765.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-7" value="寄修TAT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="687" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-8" value="工单检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="765.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-9" value="出入库时效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="857" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kCKUYcgS-TqvOsKxTB6P-5" target="kCKUYcgS-TqvOsKxTB6P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-14" value="报废证明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCKUYcgS-TqvOsKxTB6P-16" value="报废列表已转交服务商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
